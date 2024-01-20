@@ -1,0 +1,2 @@
+with open("file.abrikos", "r") as file:
+    a = file.read
